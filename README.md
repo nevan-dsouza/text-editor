@@ -10,7 +10,7 @@ A video walkthrough has been recorded to demonstrate its functions.
 
 > Github Repository Link: [https://github.com/nevan-dsouza/text-editor](https://github.com/nevan-dsouza/text-editor)
 >
-> Deployed Site Link: []()
+> Deployed Site Link: [https://cryptic-brook-56262.herokuapp.com/](https://cryptic-brook-56262.herokuapp.com/)
 
 ## Table of Contents
 
@@ -27,6 +27,12 @@ Type "npm install" in the console to install the dependancies this application r
 ## Usage
 
 In order to run this program, open up your terminal, navigate to the main folder, then enter the command: "npm run start:dev". After that, head to your localhost:3000 to check out the application. 
+
+# Screenshot
+
+Here is a screenshot of the app
+
+![Screenshot of the app](./screenshots/screenshot1.png)
 
 ## License
 
